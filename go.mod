@@ -11,7 +11,7 @@ replace (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp => go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.58.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc => go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.33.0
 	golang.org/x/oauth2 => golang.org/x/oauth2 v0.25.0
-	golang.org/x/sync => golang.org/x/sync v0.8.0
+	golang.org/x/sync => golang.org/x/sync v0.10.0
 	k8s.io/api => k8s.io/api v0.29.7
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.29.7
 	k8s.io/apimachinery => k8s.io/apimachinery v0.29.7
